@@ -20,7 +20,7 @@ Desarrollador Full Stack con foco en TypeScript. Me gusta construir interfaces l
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francochihuan)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://francochihuan.dev)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/your-cv-link)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white)](#)<!-- Reemplazar # con el enlace real a tu CV -->
 
 ---
 
