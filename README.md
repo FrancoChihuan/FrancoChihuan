@@ -1,32 +1,55 @@
-# Hola, soy Franco Chihuan 👋
-
-Desarrollador Full Stack con foco en TypeScript. Me gusta construir interfaces limpias y APIs robustas — del frontend al backend, buscando siempre código mantenible y buena experiencia de usuario.
-
----
-
-## 🛠 Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🔗 Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francochihuan)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://francochihuan.dev)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white)](#)<!-- Reemplazar # con el enlace real a tu CV -->
-
----
-
-## 📊 Stats
+<h1 align="center">Franco Chihuán Sánchez</h1>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FrancoChihuan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoChihuan&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  Full Stack Developer · Systems Engineering Student · Software Architecture · Scalable Web Products
 </p>
+
+---
+
+## About
+
+I am a Systems Engineering student with experience as a Full Stack Developer in real-world environments.  
+I build web applications end-to-end, from frontend interfaces to backend services and databases, with a strong focus on maintainability, scalability, performance, and clean implementation.
+
+My current interests are software architecture, backend design, product-oriented development, and technical decision-making in projects that connect technology with real business needs.
+
+---
+
+## Focus
+
+- Full stack web development
+- Software architecture
+- Scalable backend systems
+- Technical project execution
+
+---
+
+## Main Stack
+
+### Frontend
+TypeScript · React · Next.js · Angular · Tailwind CSS
+
+### Backend
+NestJS · Express.js · Node.js · REST APIs
+
+### Database
+PostgreSQL · SQL Server
+
+### Cloud / DevOps
+Docker · GitHub Actions · Jenkins · Cloudflare · AWS
+
+---
+
+## Links
+
+<p>
+  <a href="https://www.linkedin.com/in/francochihuan">LinkedIn</a> ·
+  <a href="https://francochihuan.click">Portfolio</a> ·
+  <a href="https://drive.google.com/file/d/1AT0G-CRxzmStGA6Ik2bxGpPOLRsVp7f1/view?usp=sharing">CV</a>
+</p>
+
+---
+
+## Profile Notes
+
+I am currently focused on growing in roles related to full stack development, software architecture, and technical project leadership.
